@@ -5,6 +5,6 @@ Before my graduation, I  worked as a NodeJs backend engineer as an intern. As a 
 
 - From last year, I started to learn using AWS and Google Cloud when i was doing my second job. Sometimes, we,  engineers, set a goal monthly. For example, I learned the usage of Envoy for Canary Deployment once. Another example is I developed a program using Golang to collect the slow log of Amazon ElastiCache into Elasticsearch.
 
-- Recently, I was arranged to another department to support them, cause their maintainers were gone. In this position, I make CICD by Jenkins, deploy nacos cluster, and provide materials for PFI certification, etc. 
+- Recently, I was arranged to another department to support them, cause their maintainers had gone. In this position, I make CICD by Jenkins, deploy nacos cluster, and provide materials for PFI certification, etc. 
 
 - At the end, I want to say it's a real honor and pleasure working with you guys. Thank you!

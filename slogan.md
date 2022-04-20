@@ -1,0 +1,12 @@
+- 11种素质
+    - Ownership(主人翁精神)，
+    - Proactive(主动积极),
+    - Passion(工作热情), 
+    - Optimism(乐观自信), 
+    - Result-Driven(结果导向)，
+    - Thoughtful(思维缜密),
+    - Sense of Urgency(紧迫感), 
+    - Negotiator(谈判专家), 
+    - Inspiring(煽动力), 
+    - Taste(个人品位)
+    - Yes, I Can(我能).

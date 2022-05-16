@@ -1,0 +1,3 @@
+- 2022年居住证小孩入学后积分 
+    - https://3g.163.com/dy/article/H0QI46PN0518IGMS.html
+    - http://www.tltzg.com/ruxue/6039.html

@@ -21,3 +21,15 @@
 3. 2023年虹口区转学
    1. http://www.shhk.gov.cn/hkjy/zfxx/001009/20221220/75b613ac-101d-4dc4-b9f0-f50703708a15.html
    2. 联系电话：65210617
+
+
+## 虹口区
+- 上海虹口区小学对口地段表一览 http://sh.bendibao.com/news/2021321/238381.shtm
+- 虹口区共有29所公办小学和4所民办小学 http://g.bm.manmankan.com/shanghai/202207/1738.shtml
+
+- 上海16区小学梯队 https://mp.weixin.qq.com/s?__biz=MzI2Nzk0MzQ5Mg==&mid=2247575619&idx=1&sn=257d1e66b06164d5659836b299672a2d&chksm=eaf4c368dd834a7e6cf1da32b5150b298c46a1105216c4d0b32187b402e9d74ba23614c53f27&scene=27
+- 上海市虹口区小学排名 http://paiming.51sxue.com/t_2_areaCodeS_310109.html
+- 上海市虹口区学校 https://www.zhihu.com/question/315553123/answer/2446967493
+
+1. 上海市北郊学校
+    1. 大二、大三、大西、北郊部分（除曲阳路385弄外）

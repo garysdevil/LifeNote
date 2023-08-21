@@ -18,9 +18,3 @@
     3. 熬夜；透支气血、精气神。
     4. 纵欲；精血同源，肝肾同源，可以说纵欲过度泄精，首先伤害的是肾，逐步的会伤害肝，脾，肺，心，这些东西受到伤害，功能衰弱，气血的生成就出问题。
     5. 外邪；通俗点就是潜在疾病，慢性病，比如溃疡，炎症，肿瘤等等，这些早期可能没什么明显症状，也不易觉察，但是长在身体里是无时无刻和脏腑争夺气血能量，这些外邪成长发展也需要气血支持。
-
-
-## 休息
-- 参考
-    - https://mindrecoverynet.org.uk/wp-content/uploads/2021/02/7-Types-of-Rest.pdf
-    - https://notesbythalia.com/types-of-rest-and-how-to-practice-them/

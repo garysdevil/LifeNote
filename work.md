@@ -39,3 +39,6 @@
 - 国际社区
     1. Indie Hackers (https://www.indiehackers.com/) 著名的 Indie hacker 社区，非常活跃，有很多Hackers 产品和文章可参考
     2. Hacker Noon (https://hackernoon.com/) 是一家美国独立技术媒体网站，专为科技爱好者阅读、写作和发布而设计
+
+## 需求平台
+1. https://feature.cool/

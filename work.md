@@ -42,3 +42,7 @@
 
 ## 需求平台
 1. https://feature.cool/
+
+
+## 线上兼职
+1. 做小任务赚钱 https://jumptask.io/

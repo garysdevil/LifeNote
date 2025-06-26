@@ -46,3 +46,11 @@
 
 ## 线上兼职
 1. 做小任务赚钱 https://jumptask.io/
+
+
+## Web3行业
+1. https://web3.career/
+2. https://cryptojobslist.com/
+3. https://cryptocurrencyjobs.co/
+4. https://www.cryptojobs.com/
+5. https://laborx.com/
